@@ -33,10 +33,10 @@ Telegram-бот на aiogram 3. Генерирует текст и картин�
  
 
 
-### 🏨 [Booking Service](https://github.com/wru9we/booking_app) - микросервис бронирования отелей
+### 🏨 [Booking Service](https://github.com/wru9we/booking_app) - Сервис бронирования отелей
 Асинхронный бэкенд на FastAPI для бронирования номеров: авторизация, каталог отелей и комнат, брони с проверкой доступности, SQLAdmin и простое демо-UI.
 
-**Стек:** FastAPI · PostgreSQL · SQLAlchemy · Alembic · SQLAdmin · JWT.
+**Стек:** FastAPI · PostgreSQL · Docker · SQLAlchemy · Alembic · SQLAdmin · Redis · JWT.
 
 
 
